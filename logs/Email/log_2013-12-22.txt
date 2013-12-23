@@ -1,0 +1,105 @@
+2013-12-22 10:42:42 - INFO --> -------------------------- 
+2013-12-22 10:42:42 - INFO --> Controller/Method: reminder/index 
+2013-12-22 10:42:42 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 10:42:42 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 10:42:42 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 10:42:42 - INFO --> CC:  
+2013-12-22 10:42:42 - INFO --> BCC:  
+2013-12-22 10:42:42 - INFO --> Subject: Remind.me SQL Error 
+2013-12-22 10:42:42 - INFO --> Body: <h2>SQL Error</h2> SELECT 
+    reminders .* , 
+    users.first_name, 
+    users.last_name
+    FROM reminders
+    INNER JOIN users 
+    ON reminders.user_id = users.user_id
+    WHERE user_id = 3 Column 'user_id' in where clause is ambiguous<h2>Query History</h2>0 = SELECT *
+					FROM users
+			 
+2013-12-22 12:22:09 - INFO --> -------------------------- 
+2013-12-22 12:22:09 - INFO --> Controller/Method: users/p_signup 
+2013-12-22 12:22:09 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 12:22:09 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 12:22:09 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 12:22:09 - INFO --> CC:  
+2013-12-22 12:22:09 - INFO --> BCC:  
+2013-12-22 12:22:09 - INFO --> Subject: Remind.me SQL Error 
+2013-12-22 12:22:09 - INFO --> Body: <h2>SQL Error</h2> INSERT INTO users SET first_name = 'test', last_name = 'tester', email = 'test@test.com', password = '00aa407abd8ad7efadeec6191bbc6d13889f68ac', created = '1387732929', modified = '1387732929', token = '78374924ee311342a1ba10abd7bfc7c25bbd5196' No database selected<h2>Query Histor 
+2013-12-22 12:22:09 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 13:30:20 - INFO --> -------------------------- 
+2013-12-22 13:30:20 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 13:30:20 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 13:30:20 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 13:30:20 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 13:30:20 - INFO --> CC:  
+2013-12-22 13:30:20 - INFO --> BCC:  
+2013-12-22 13:30:20 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 13:30:20 - INFO --> Body: test<br>12:35<br>2013-12-22<br> 
+2013-12-22 13:30:20 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 18:14:44 - INFO --> -------------------------- 
+2013-12-22 18:14:44 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 18:14:44 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 18:14:44 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 18:14:44 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 18:14:44 - INFO --> CC:  
+2013-12-22 18:14:44 - INFO --> BCC:  
+2013-12-22 18:14:44 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 18:14:44 - INFO --> Body: watching football<br>17:16<br>2013-12-22<br> 
+2013-12-22 18:14:44 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 18:45:48 - INFO --> -------------------------- 
+2013-12-22 18:45:48 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 18:45:48 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 18:45:48 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 18:45:48 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 18:45:48 - INFO --> CC:  
+2013-12-22 18:45:48 - INFO --> BCC:  
+2013-12-22 18:45:48 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 18:45:48 - INFO --> Body: ne vs bal<br>17:50<br>2013-12-22<br> 
+2013-12-22 18:45:48 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 19:10:37 - INFO --> -------------------------- 
+2013-12-22 19:10:37 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 19:10:37 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 19:10:37 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 19:10:37 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 19:10:37 - INFO --> CC:  
+2013-12-22 19:10:37 - INFO --> BCC:  
+2013-12-22 19:10:37 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 19:10:37 - INFO --> Body: asdfasdfasdf<br>18:12<br>2013-12-22<br> 
+2013-12-22 19:10:37 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 19:15:32 - INFO --> -------------------------- 
+2013-12-22 19:15:32 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 19:15:32 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 19:15:32 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 19:15:32 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 19:15:32 - INFO --> CC:  
+2013-12-22 19:15:32 - INFO --> BCC:  
+2013-12-22 19:15:32 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 19:15:32 - INFO --> Body: rare<br>18:16<br>2013-12-22<br> 
+2013-12-22 19:15:32 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 20:29:29 - INFO --> -------------------------- 
+2013-12-22 20:29:29 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 20:29:29 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 20:29:29 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-22 20:29:29 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 20:29:29 - INFO --> CC:  
+2013-12-22 20:29:29 - INFO --> BCC:  
+2013-12-22 20:29:29 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 20:29:29 - INFO --> Body: testing<br>01:00<br>2013-12-18<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <t 
+2013-12-22 20:29:29 - INFO --> FAILED TO SEND EMAIL 
+2013-12-22 20:36:11 - INFO --> -------------------------- 
+2013-12-22 20:36:11 - INFO --> Controller/Method: reminder/p_add 
+2013-12-22 20:36:11 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-22 20:36:11 - INFO --> From: Remind.me (p4@willhoback.com) 
+2013-12-22 20:36:11 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-22 20:36:11 - INFO --> CC:  
+2013-12-22 20:36:11 - INFO --> BCC:  
+2013-12-22 20:36:11 - INFO --> Subject: Remind.me Reminder 
+2013-12-22 20:36:11 - INFO --> Body: testtesttest<br>14:01<br>2013-12-24<br><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      

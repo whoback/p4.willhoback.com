@@ -1,0 +1,8 @@
+
+	.reminders:first-child, :not(.reminders) + .reminders { border:5px solid red }
+	.reminders{
+		background-color: yellow;
+	}
+	.error{
+		color:red;
+	}

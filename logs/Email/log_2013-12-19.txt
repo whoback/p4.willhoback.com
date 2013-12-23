@@ -1,0 +1,12 @@
+2013-12-19 10:20:06 - INFO --> -------------------------- 
+2013-12-19 10:20:06 - INFO --> Controller/Method: reminder/p_add 
+2013-12-19 10:20:06 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-19 10:20:06 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-19 10:20:06 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-19 10:20:06 - INFO --> CC:  
+2013-12-19 10:20:06 - INFO --> BCC:  
+2013-12-19 10:20:06 - INFO --> Subject: Remind.me Reminder 
+2013-12-19 10:20:06 - INFO --> Body: this is the email dude.
+someshits<br />
+<font size='1'><table class='xdebug-error xe-notice' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Notice: Und 

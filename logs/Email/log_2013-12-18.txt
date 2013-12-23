@@ -1,0 +1,36 @@
+2013-12-18 19:42:12 - INFO --> -------------------------- 
+2013-12-18 19:42:12 - INFO --> Controller/Method: reminder/p_add 
+2013-12-18 19:42:12 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-18 19:42:12 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-18 19:42:12 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-18 19:42:12 - INFO --> CC:  
+2013-12-18 19:42:12 - INFO --> BCC:  
+2013-12-18 19:42:12 - INFO --> Subject: testing email 
+2013-12-18 19:42:12 - INFO --> Body: this is the email dude. 
+2013-12-18 19:46:18 - INFO --> -------------------------- 
+2013-12-18 19:46:18 - INFO --> Controller/Method: reminder/p_add 
+2013-12-18 19:46:18 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-18 19:46:18 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-18 19:46:18 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-18 19:46:18 - INFO --> CC:  
+2013-12-18 19:46:18 - INFO --> BCC:  
+2013-12-18 19:46:18 - INFO --> Subject: 1387413977 
+2013-12-18 19:46:18 - INFO --> Body: this is the email dude. 
+2013-12-18 19:47:26 - INFO --> -------------------------- 
+2013-12-18 19:47:26 - INFO --> Controller/Method: reminder/p_add 
+2013-12-18 19:47:26 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-18 19:47:26 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-18 19:47:26 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-18 19:47:26 - INFO --> CC:  
+2013-12-18 19:47:26 - INFO --> BCC:  
+2013-12-18 19:47:26 - INFO --> Subject: 1387414046 
+2013-12-18 19:47:26 - INFO --> Body: this is the email dude. 
+2013-12-18 19:47:58 - INFO --> -------------------------- 
+2013-12-18 19:47:58 - INFO --> Controller/Method: reminder/p_add 
+2013-12-18 19:47:58 - INFO --> OUTGOING EMAILS ARE DISABLED. THIS EMAIL WAS NOT SENT TO THE RECIPIENTS, ONLY will.hoback@gmail.com 
+2013-12-18 19:47:58 - INFO --> From: Remind.me (will.hoback@gmail.com) 
+2013-12-18 19:47:58 - INFO --> To: Remind.me (will.hoback@gmail.com),  
+2013-12-18 19:47:58 - INFO --> CC:  
+2013-12-18 19:47:58 - INFO --> BCC:  
+2013-12-18 19:47:58 - INFO --> Subject: 1387414078 
+2013-12-18 19:47:58 - INFO --> Body: this is the email dude. 
